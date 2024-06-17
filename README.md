@@ -1,4 +1,4 @@
-### Olá, Vitor Santos Tardioli aqui!
+### Prazer, me chamo Vitor Santos Tardioli!
 
 -  Atualmente estou trabalhando na Prefeitura Municipal do Guarujá - Na área de Suporte de T.I.
 -  Começando meus estudos com: <strong> HTML CSS JavaScript | Python</strong> 
